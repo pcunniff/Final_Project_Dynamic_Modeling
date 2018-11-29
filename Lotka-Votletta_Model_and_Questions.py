@@ -7,8 +7,8 @@ Created on Mon Nov 26 11:03:05 2018
 
 #Lotka-Volterra Model describes two populations by two different equations
 
-#Prey = H (Herbivore)
-#Predator = P
+#Prey Population = H (Herbivore)
+#Predator Population = P
 #prey birth rate = b
 #predator attack rate = a
 #conversion efficiency of prey to predators = e
