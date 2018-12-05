@@ -30,7 +30,9 @@
 
 ########### LV Report
 
-
+# look at what each variable means in your report because they dont line
+# Ex: H is prey birth rate, but H is actually prey population
+# b is the birth rate in the next section (correct)
 
 
 
