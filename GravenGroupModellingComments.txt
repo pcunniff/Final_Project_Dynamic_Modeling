@@ -1,0 +1,47 @@
+# Comments on Mac Graven's Group Project for Dynamic Modelling
+# By Zach Bonstetter, Patrick Cunniff, Cole Grabowski
+
+###### Comments below:
+
+# Python Code for LV Model:
+# Might be more effective to show how parameters are changing each time rather than giving new numerical values
+# For example, define parameters and save them to a variable, then in params have it be params = (a*2,b,s,w,...)
+
+# More comments are always helpful to describe what is actually going on in code
+# Very helpful for other people looking at your code for the first time and also for when you look back at this code in the far future
+
+####### Python Code for RM Model:
+
+# More comments which is helpful
+
+# In the LV model, he suggests making the range in time steps of 0.1
+# Might be a good idea to carry this over into RM model simulations as well (see LV code)
+
+# Maybe do the same thing with the parameters as suggested in comments for LV code
+
+# Simulations 4 and 5 are miscommented (a/alpha is not predator attack rate, w is predator search rate or attack rate)
+
+# Simulation 8, doubled d when the comment says it is tripled (either is fine, but just clarify which you are doing)
+
+# Finish Paradox of Enrichment
+
+# Rest of Code Looks really really good
+
+
+########### LV Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
